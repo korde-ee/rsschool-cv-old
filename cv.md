@@ -1,10 +1,10 @@
 # Elena Korde
 
+![Elena Korde](/ElenaKorde.jpg "Elena Korde")
+
 ## Contact information
 
-
 **e-mail**: ekorde@gmail.com
-
 
 **Phone**: +381616327922
 
