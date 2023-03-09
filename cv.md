@@ -1,6 +1,6 @@
 # Elena Korde
 
-![Elena Korde](/ElenaKorde.jpg "Elena Korde")
+![Elena Korde](ElenaKorde.jpg "Elena Korde")
 
 ## Contact information
 
@@ -75,6 +75,6 @@ GeekBrains - Web development
 ## Languages
 English - intermediate B1-B2
 
-![English - intermediate](/english_level_new.png "English level")
+![English - intermediate](english_level_new.png "English level")
 
 Russian - Native
