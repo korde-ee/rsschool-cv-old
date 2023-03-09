@@ -13,15 +13,12 @@
 I want to be able to work for pleasure in any format of cooperation (remote work is preferable).
 
 ## Skills
-HTML, CSS
 
-C#, Phyton
-
-php, MySQL
-
-Git, GitHub
-
-Visual Studio Code
+* HTML, CSS
+* C#, Phyton
+* php, MySQL
+* Git, GitHub
+* Visual Studio Code
 
 ## Code example
 
