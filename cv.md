@@ -10,6 +10,7 @@
 
 ## About me
 
+I want to be able to work for pleasure in any format of cooperation (remote work is preferable).
 
 ## Skills
 HTML, CSS
@@ -66,6 +67,9 @@ removeLast = removeLast.replace('+ -', '- ')
 removeLast = ''.join((removeLast, " = 0"))
 print(removeLast)
 ```
+## Experience
+
+5 years as a webmaster. Creation of websites, online stores.
 
 ## Curses
 
